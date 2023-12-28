@@ -1,0 +1,2 @@
+Placeholder
+- Input folder stores all input files for process

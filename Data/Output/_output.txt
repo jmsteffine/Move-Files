@@ -1,0 +1,2 @@
+Placeholder
+- Output folder stores all generated files from the process

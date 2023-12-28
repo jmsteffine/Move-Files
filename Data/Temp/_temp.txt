@@ -1,0 +1,2 @@
+Placeholder
+- Temp folder stores all files that are being processed
